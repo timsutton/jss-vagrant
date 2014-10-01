@@ -1,7 +1,7 @@
 jss-vagrant
 ===========
 
-This is a very basic Vagrant environment that helps you stand up an Ubuntu-based JSS server for test use with the Casper Suite. I built this for the purposes of being able to quickly set up and tear down a local JSS VM for an [AutoPkg](https://autopkg.github.io/autopkg) demo I did at the [MacSysAdmin 2014 Conference](http://macsysadmin.se/2014/Wednesday.html). I was 
+This is a very basic Vagrant environment that helps you stand up an Ubuntu-based JSS server for test use with the Casper Suite. I built this for the purposes of being able to quickly set up and tear down a local JSS VM for an [AutoPkg](https://autopkg.github.io/autopkg) demo I did at the [MacSysAdmin 2014 Conference](http://macsysadmin.se/2014/Wednesday.html). I had a need for being able to take a test setup around with me and wanted to be able to easily get it back to a known state, and didn't find the JSS Linux installer satisfactory.
 
 It has been tested with the following Vagrant providers:
 
