@@ -1,0 +1,4 @@
+jss-app/ROOT.war
+data/jss_data.sql
+.DS_Store
+.vagrant
